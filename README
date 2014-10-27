@@ -1,0 +1,8 @@
+RPN Calculator by John Kasiewicz
+
+To run tests:
+gem install rspec
+rspec
+
+To run application:
+ruby bin/rpn.rb
